@@ -6,5 +6,5 @@
 Here are some ideas to get you started:
 -->
 
-- I am passionate about Crypto, Blockchain, AI, Programming
+- 🔭 I am passionate about Crypto, Blockchain, AI, Programming
 - 📫 Reach me on Twitter or Linkedin
