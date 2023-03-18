@@ -7,6 +7,6 @@ Here are some ideas to get you started:
 -->
 
 - 😜 I am good at Solidity, C++
-- 📚 I learn C#, JavaScript, Python
+- 📚 I learn C#, JavaScript, Python, SQL, Linux
 - 🔭 I love Crypto, Blockchain, AI
 - 📫 Reach me on Twitter or Linkedin
