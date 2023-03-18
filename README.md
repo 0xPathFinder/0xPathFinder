@@ -8,5 +8,5 @@ Here are some ideas to get you started:
 
 - 😜 I am good at Solidity, C++
 - 📚 I learn C#, JavaScript, Python
-- 🔭 I am passionate about Crypto, Blockchain, AI
+- 🔭 I love Crypto, Blockchain, AI
 - 📫 Reach me on Twitter or Linkedin
