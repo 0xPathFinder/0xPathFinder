@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I am passionate about Crypto, Blockchain, AI, Programming
 - 😜 I am good at Solidity, C++
-- 📚 I know C#, JavaScript, Python
+- 📚 I learn C#, JavaScript, Python
+- 🔭 I am passionate about Crypto, Blockchain, AI
 - 📫 Reach me on Twitter or Linkedin
